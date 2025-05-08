@@ -1,0 +1,33 @@
+.weather-container {
+    text-align: center;
+    padding: 40px;
+    background: #eef4f6;
+    height: 100vh;
+  }
+  
+  .card {
+    background: white;
+    display: inline-block;
+    padding: 20px 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  }
+  
+  input {
+    padding: 8px;
+    margin-right: 10px;
+    width: 180px;
+  }
+  
+  button {
+    padding: 8px 12px;
+    background: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .weather-info {
+    margin-top: 15px;
+    text-align: left;
+  }
